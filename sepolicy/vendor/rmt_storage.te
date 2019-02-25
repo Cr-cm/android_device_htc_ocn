@@ -1,1 +1,0 @@
-allow rmt_storage qti_debugfs:file rw_file_perms;

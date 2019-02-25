@@ -1,3 +1,0 @@
-dontaudit priv_app device:dir r_dir_perms;
-dontaudit priv_app proc_interrupts:file r_file_perms;
-dontaudit priv_app proc_modules:file r_file_perms;
